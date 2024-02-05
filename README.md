@@ -1,2 +1,2 @@
-#FullStack Osa 6
+# FullStack Osa 6
 Osan 6 palautusrepositorio
